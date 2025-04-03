@@ -2,19 +2,14 @@
 
 <p align="center">
   <a href="https://wa.me/seu-numero"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/seu-perfil"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/guilherme-de-queiroz-caixeta/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
   <a href="https://www.instagram.com/seu-usuario"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 ---
 
-### 📊 My GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark&count_private=true" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dark" width="400"/>
-</div>
-
----
 
 ### 🚀 Technologies I use in my daily routine  
 
@@ -30,5 +25,5 @@
 ---
 
 ### 📫 How to reach me:
-📧 Email: seuemail@email.com  
+📧 Email: guilhermecaixeta.engsoftware@gmail.com
 🔗 LinkedIn: [Seu Nome](https://www.linkedin.com/in/seu-perfil)  
