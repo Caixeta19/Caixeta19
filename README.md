@@ -26,4 +26,4 @@
 
 ### 📫 How to reach me:
 📧 Email: guilhermecaixeta.engsoftware@gmail.com
-🔗 LinkedIn: [Seu Nome](https://www.linkedin.com/in/seu-perfil)  
+🔗 LinkedIn: [Guilherme Caixeta](www.linkedin.com/in/guilherme-de-queiroz-caixeta)  
