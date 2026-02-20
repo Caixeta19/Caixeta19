@@ -15,5 +15,5 @@ My name is Guilherme Caixeta, a Software Engineering student and developer from 
 
 ### Techs
 
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,git,github,figma" />
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,git,github,figma" />
 
